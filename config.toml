@@ -1,0 +1,5 @@
+baseURL = 'https://mapakuvillage.com/'
+languageCode = 'en-us'
+title = 'Mapaku Village'
+
+theme = 'maddybook'
