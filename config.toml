@@ -3,3 +3,6 @@ languageCode = 'en-us'
 title = 'Mapaku Village'
 
 theme = 'maddybook'
+
+[markup.goldmark.renderer]
+    unsafe = true
