@@ -1,0 +1,5 @@
+# For now, redirect all traffic to the Square site
+[[redirects]]
+    from = "/*"
+    to = "http://mapakuvillage.square.site"
+
