@@ -3,3 +3,7 @@
     from = "/*"
     to = "http://mapakuvillage.square.site"
 
+[[redirects]]
+    from = "/"
+    to: = "http://mapakuvillage.square.site"
+
